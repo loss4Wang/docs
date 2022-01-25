@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>loss4Wang&#39;s Blog</title>
-        <link>https://loss4wang.github.io/</link>
-        <description>loss4Wang Blog</description>
+        <title>Foundation - Tag - loss4Wang&#39;s Blog</title>
+        <link>https://loss4wang.github.io/tags/foundation/</link>
+        <description>Foundation - Tag - loss4Wang&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wang_xiao@whu.edu.cn (loss4Wang)</managingEditor>
-            <webMaster>wang_xiao@whu.edu.cn (loss4Wang)</webMaster><lastBuildDate>Tue, 25 Jan 2022 00:26:36 &#43;0800</lastBuildDate>
-            <atom:link href="https://loss4wang.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>wang_xiao@whu.edu.cn (loss4Wang)</webMaster><lastBuildDate>Tue, 25 Jan 2022 00:26:36 &#43;0800</lastBuildDate><atom:link href="https://loss4wang.github.io/tags/foundation/" rel="self" type="application/rss+xml" /><item>
     <title>Build Your Machine Learning on the Rock</title>
     <link>https://loss4wang.github.io/3_month_ml/</link>
     <pubDate>Tue, 25 Jan 2022 00:26:36 &#43;0800</pubDate>
