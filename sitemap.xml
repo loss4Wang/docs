@@ -2,11 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://loss4wang.github.io/3_month_ml/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://loss4wang.github.io/categories/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://loss4wang.github.io/tags/foundation/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://loss4wang.github.io/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://loss4wang.github.io/tags/ml/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://loss4wang.github.io/posts/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://loss4wang.github.io/categories/studying/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://loss4wang.github.io/tags/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://loss4wang.github.io/ai_coffe_break_notes1/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/categories/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/tags/ml/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/tags/notes/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/posts/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/tags/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/categories/watching/</loc><lastmod>2022-02-16T16:50:39&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://loss4wang.github.io/3_month_ml/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>https://loss4wang.github.io/tags/foundation/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url><url>
+            <loc>https://loss4wang.github.io/categories/studying/</loc><lastmod>2022-01-25T00:26:36&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url></urlset>
