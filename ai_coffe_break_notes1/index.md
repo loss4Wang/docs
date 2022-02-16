@@ -1,4 +1,4 @@
-# AI_coffe_break_notes1
+# AI coffe break: notes1
 
 <!--more-->
 
@@ -14,7 +14,7 @@ To NLP, the task is called probing/diagnostic classifier/probing task.
 
 - Freeze the parameters of Input layer and Hidden layers,
 - Replace the last layers to Probing layers,
-- Train the Probing layers on a small dataset.
+- Train the Probing layers on a small dataset
 
 If task A is Masked word prediction and task B is Sentiment analysis, then:
 
