@@ -102,7 +102,7 @@ $Ax=b:
     \cr 0&1&0
     \cr -l&0&1
      \end{bmatrix}$
-  - **The purpose of $E_{31}$ is to produce a zero in the ( 3, 1) position of the matrix.**
+  - **The purpose of** $E_{31}$ **is to produce a zero in the ( 3, 1) position of the matrix.**
   - **Products and inverses** are especially clear for E's. It is those two ideas that the book will use.
 
 ### Matrix Multiplication
@@ -119,7 +119,7 @@ Q: **How do we multiply two matrices?**
 
 $AB = A [b_1,b_2,b_3]=[Ab_1,Ab_2,Ab_3]$
 
-### The Matrix $P_{ij}$ **for a Row Exchange**
+### The Matrix $P_{ij}$ for a Row Exchange
 
 **Permutation Matrix**
 
