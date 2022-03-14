@@ -14,7 +14,7 @@
     <guid>https://loss4wang.github.io/introduction2la_l3/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/LA.png" referrerpolicy="no-referrer">
-            </div>1. Mind Map 2. Reading Notes (2.4-2.5) 2.4 Rules for Matrix Operations 4 ways to find AB. (matrix multiplication)  Take the dot product of each row of A with each column of B. Each column of AB is a combination of the columns of A. (Matrix A times every column of B) Every row of AB is a combination of the rows of B. (Every row of A times matrix B) Multiply columns 1 to n of A times rows 1 ton of B.]]></description>
+            </div>Notes on a great open course: Linear Algebra.]]></description>
 </item><item>
     <title>MIT 18.06(Linear Algebra) L2 Note</title>
     <link>https://loss4wang.github.io/introduction2la_l2/</link>
@@ -23,9 +23,7 @@
     <guid>https://loss4wang.github.io/introduction2la_l2/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/LA.png" referrerpolicy="no-referrer">
-            </div>1. Mind Map 2. Reading Notes(2.2-2.3) 2.2 The Idea of Elimination A systematic way to solve linear equations: elimination
- GOAL: produce an upper triangular system The system solved from the bottom upwards: back substitution Pivot : first nonzero in the row that does the elimination Multiplier : (entry to eliminate) divided by (pivot)  Breakdown of Elimination Failure: The method might ask us to divide by zero.
- Permanent failure with no solution.]]></description>
+            </div>Notes on a great open course: Linear Algebra.]]></description>
 </item><item>
     <title>MIT 18.06(Linear Algebra) L1 Note</title>
     <link>https://loss4wang.github.io/introduction2la_l1/</link>

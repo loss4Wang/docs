@@ -1,5 +1,6 @@
 # MIT 18.06(Linear Algebra) L2 Note
 
+<!--more-->
 
 # 1. Mind Map
 ![](https://raw.githubusercontent.com/loss4wang/wx_imagehost/main/LA_Lecture_2.png)

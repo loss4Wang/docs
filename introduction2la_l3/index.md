@@ -1,5 +1,6 @@
 # Introduction2LA_L3
 
+<!--more-->
 
 # 1. Mind Map
 
