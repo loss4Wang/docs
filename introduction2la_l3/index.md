@@ -1,4 +1,4 @@
-# Introduction2LA_L3
+# MIT 18.06(Linear Algebra) L3 Note
 
 <!--more-->
 
